@@ -1,0 +1,23 @@
+커맨드 참고용 샘플코드
+
+case 10 : nv_cmd_Find.h 
+FindEdge + measure
+FindCircle
+FindLine
+
+case 12 : nv_cmd_pp_basic.h
+Bin + eroseion + dilation...
+
+case 21 : nv_cmd_pp_basic.h
+Image Convert + Split + Merge
+
+case 24 : nv_cmd_noisdOp.h
+Image Filter - Blur / Sharpening
+
+case 27 : nv_cmd_pp_Find.h
+Find Line
+
+case 28 : nv_cmd_pp_Find.h
+Find Circle 
+
+add 변경사항을 인덱스에 등록하기
